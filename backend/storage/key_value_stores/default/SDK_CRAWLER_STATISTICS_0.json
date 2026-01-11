@@ -1,0 +1,40 @@
+{
+  "requestsFinished": 1,
+  "requestsFailed": 0,
+  "requestsRetries": 1,
+  "requestsFailedPerMinute": 0,
+  "requestsFinishedPerMinute": 1,
+  "requestMinDurationMillis": 28399,
+  "requestMaxDurationMillis": 28399,
+  "requestTotalFailedDurationMillis": 0,
+  "requestTotalFinishedDurationMillis": 28399,
+  "crawlerStartedAt": "2026-01-11T08:01:59.724Z",
+  "crawlerFinishedAt": "2026-01-11T08:03:31.320Z",
+  "statsPersistedAt": "2026-01-11T08:03:31.320Z",
+  "crawlerRuntimeMillis": 91823,
+  "crawlerLastStartTimestamp": 1768118519497,
+  "requestRetryHistogram": [
+    null,
+    1
+  ],
+  "statsId": 0,
+  "requestAvgFailedDurationMillis": null,
+  "requestAvgFinishedDurationMillis": 28399,
+  "requestTotalDurationMillis": 28399,
+  "requestsTotal": 1,
+  "requestsWithStatusCode": {
+    "200": 1
+  },
+  "errors": {},
+  "retryErrors": {
+    "C:\\Users\\anmol\\Documents\\Web Development\\product-data-explorer\\backend\\node_modules\\@crawlee\\src\\crawlers\\crawler_utils.ts:13:11": {
+      "missing error code": {
+        "Error": {
+          "Navigation timed out after 60 seconds.": {
+            "count": 1
+          }
+        }
+      }
+    }
+  }
+}

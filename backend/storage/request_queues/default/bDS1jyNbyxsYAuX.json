@@ -1,0 +1,9 @@
+{
+	"id": "bDS1jyNbyxsYAuX",
+	"json": "{\"id\":\"bDS1jyNbyxsYAuX\",\"url\":\"https://www.worldofbooks.com/en-gb/search?q=mystery\",\"loadedUrl\":\"https://www.worldofbooks.com/en-gb/search?q=mystery\",\"uniqueKey\":\"https://www.worldofbooks.com/en-gb/search?q=mystery\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":1,\"errorMessages\":[\"Error: Navigation timed out after 60 seconds.\\n    at handleRequestTimeout (C:\\\\Users\\\\anmol\\\\Documents\\\\Web Development\\\\product-data-explorer\\\\backend\\\\node_modules\\\\@crawlee\\\\src\\\\crawlers\\\\crawler_utils.ts:13:11)\\n    at PlaywrightCrawler._handleNavigationTimeout (C:\\\\Users\\\\anmol\\\\Documents\\\\Web Development\\\\product-data-explorer\\\\backend\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\browser-crawler.ts:695:33)\\n    at PlaywrightCrawler._handleNavigation (C:\\\\Users\\\\anmol\\\\Documents\\\\Web Development\\\\product-data-explorer\\\\backend\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\browser-crawler.ts:658:24)\\n    at async PlaywrightCrawler._runRequestHandler (C:\\\\Users\\\\anmol\\\\Documents\\\\Web Development\\\\product-data-explorer\\\\backend\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\browser-crawler.ts:553:13)\\n    at async PlaywrightCrawler._runRequestHandler (C:\\\\Users\\\\anmol\\\\Documents\\\\Web Development\\\\product-data-explorer\\\\backend\\\\node_modules\\\\@crawlee\\\\src\\\\internals\\\\playwright-crawler.ts:243:9)\\n    at async wrap (C:\\\\Users\\\\anmol\\\\Documents\\\\Web Development\\\\product-data-explorer\\\\backend\\\\node_modules\\\\@apify\\\\src\\\\index.ts:77:27)\"],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2026-01-11T08:03:30.386Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 1,
+	"uniqueKey": "https://www.worldofbooks.com/en-gb/search?q=mystery",
+	"url": "https://www.worldofbooks.com/en-gb/search?q=mystery"
+}
