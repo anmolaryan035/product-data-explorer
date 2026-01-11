@@ -11,7 +11,7 @@ interface Product {
 
 async function fetchProducts() {
   const targetUrl = 'https://www.worldofbooks.com/en-gb/search?q=mystery';
-  const res = await fetch(`http://localhost:3000/products/scrape?url=${targetUrl}`);
+  const res = await fetch(`https://YOUR-RENDER-URL.onrender.com/products/scrape?url=${targetUrl}`);
   if (!res.ok) throw new Error('Network response was not ok');
   return res.json();
 }
